@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Amir 👋
 
-<!--
-**A-Aghaverdizadeh/A-Aghaverdizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer with a strong focus on **Python**, **modern API development**, and **cybersecurity infrastructure**. 
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+* **Languages:** Python, JavaScript, Bash
+* **Backend:** Django, Django REST Framework, FastAPI
+* **Databases & Caching:** PostgreSQL, Redis
+* **DevOps & Infrastructure:** Docker, Nginx, Linux, CI/CD
+* **Security & Networking:** Web Application Security, System Hardening
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📝 Latest Articles & Insights
+Check out my latest technical write-ups on backend performance and security:
+* [20 Common Security Mistakes in Django (and How to Fix Them)](https://amiraghaverdi.ir)
+* [Python Backend Frameworks: How to Choose the Right One](https://amiraghaverdi.ir)
+
+---
+
+### 📬 Connect with Me
+* 🌐 **Website:** [amiraghaverdi.ir](https://amiraghaverdi.ir)
+* 📧 **Email:** amiraghaverdidev@gmail.com
