@@ -13,8 +13,8 @@ Backend Software Engineer with a strong focus on **Python**, **modern API develo
 
 ### 📝 Latest Articles & Insights
 Check out my latest technical write-ups on backend performance and security:
-* [20 Common Security Mistakes in Django (and How to Fix Them)](https://amiraghaverdi.ir)
-* [Python Backend Frameworks: How to Choose the Right One](https://amiraghaverdi.ir)
+* [20 Common Security Mistakes in Django (and How to Fix Them)]([https://amiraghaverdi.ir](https://amiraghaverdi.ir/blog/20-common-django-security-mistakes-and-how-to-fix-))
+* [Python Backend Frameworks: How to Choose the Right One]([https://amiraghaverdi.ir](https://amiraghaverdi.ir/blog/python-backend-frameworks-how-to-choose-the-right-))
 
 ---
 
