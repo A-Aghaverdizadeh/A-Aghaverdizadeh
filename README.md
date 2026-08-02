@@ -13,6 +13,7 @@ Backend Software Engineer with a strong focus on **Python**, **modern API develo
 
 ### 📝 Latest Articles & Insights
 Check out my latest technical write-ups on backend performance and security:
+* [Linux Commands Every Backend Developer Should Know](https://amiraghaverdi.ir/blog/)
 * [20 Common Security Mistakes in Django (and How to Fix Them)](https://amiraghaverdi.ir/blog/)
 * [Python Backend Frameworks: How to Choose the Right One](https://amiraghaverdi.ir/blog/)
 
