@@ -20,5 +20,5 @@ Check out my latest technical write-ups on backend performance and security:
 ---
 
 ### 📬 Connect with Me
-* 🌐 **Website:** [amiraghaverdi.ir](https://amiraghaverdi.ir)
+* 🌐 **Website:** [amiraghaverdi.ir](https://amiraghaverdi.ir/en/)
 * 📧 **Email:** amiraghaverdidev@gmail.com
